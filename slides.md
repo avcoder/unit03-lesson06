@@ -162,6 +162,7 @@ class: text-left
 - 💻 [Relational vs Nonrelational DBs](https://www.freecodecamp.org/news/relational-vs-nonrelational-databases-difference-between-sql-db-and-nosql-db/)
 - ☁️ [7 Database Paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
 - ▶️ [Intro to Scrum](https://www.youtube.com/watch?v=9TycLR0TqFA&t=5s)
+- 📔 [Guide to Agile Methodology](https://www.freecodecamp.org/news/complete-guide-to-agile-methodology/)
 
 <br>
 <hr>
@@ -180,7 +181,8 @@ transition: slide-left
 
 # Agile Theory - Collaborate in Software Deelopment
 
-- Watch (7 mins) 
+- Look thru [Agile Manifesto](https://courses.circuitstream.com/d2l/le/lessons/9514/topics/49824)
+- [Watch](https://www.youtube.com/watch?v=BVbfNiRbgjU) Scrum Card Game
 
 ---
 transition: slide-left
@@ -188,5 +190,5 @@ transition: slide-left
 
 # Homework
 
-- Attempt https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs
+- Watch (7 mins) https://www.youtube.com/watch?v=9TycLR0TqFA&t=5s
 - Download MongoDB's [compass](https://www.mongodb.com/products/tools/compass) and also sign up to create an account
