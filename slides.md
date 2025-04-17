@@ -181,10 +181,12 @@ transition: slide-left
 ---
 
 # Agile Theory - Collaborate in Software Deelopment
-(20 min)
+(20 min) What is Agile and Scrum?
 
 - Look thru [Agile Manifesto](https://courses.circuitstream.com/d2l/le/lessons/9514/topics/49824)
 - [Watch](https://www.youtube.com/watch?v=BVbfNiRbgjU) Scrum Card Game
+- What's a sprint?
+- How do teams organize work and to-dos in software development?
 
 ---
 transition: slide-left
