@@ -40,7 +40,7 @@ transition: slide-left
 
 - Dynamic routes `app.get('/order/:id', () => { console.log(req.???.??) })`
 - What is middleware?
-- Show steps in creating express app so far
+- Show [steps](https://github.com/avcoder/express-steps/blob/main/ExpressSteps.md) in creating express app so far
 - https://reqres.in/
 - Demo redirect
   ```js
