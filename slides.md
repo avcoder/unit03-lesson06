@@ -20,7 +20,7 @@ mdc: true
 Back-End Development
 - [ ] Web Infrastructure
 - [ ] Purpose of Databases
-- [ ] GitHub and Leveraging AI
+- [ ] Intro to Agile/Scrum
 
 <div class="abs-br m-6 text-xl">
   <a href="https://github.com/slidevjs/slidev" target="_blank" class="slidev-icon-btn">
