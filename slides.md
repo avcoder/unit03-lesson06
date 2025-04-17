@@ -98,6 +98,7 @@ transition: slide-left
    - What method was used
    - What did that action do (ex: it fetched a list of books, it submitted login form)
    - in your opinion, which CRUD operation was performed 
+   - If it was a POST request, can you find the data that was sent (see Payload tab)
 7. Each person presents to their group what they found
 
 Prepare to share with the rest of the class any curiosity questions
