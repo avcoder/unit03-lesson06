@@ -180,9 +180,20 @@ transition: slide-left
 ---
 
 # Agile Theory - Collaborate in Software Deelopment
+(20 min)
 
 - Look thru [Agile Manifesto](https://courses.circuitstream.com/d2l/le/lessons/9514/topics/49824)
 - [Watch](https://www.youtube.com/watch?v=BVbfNiRbgjU) Scrum Card Game
+
+---
+transition: slide-left
+---
+
+# Exercise: Routers (aka organized routing)
+(remainder of time)
+
+- https://www.theodinproject.com/lessons/nodejs-routes
+- refactor our [food truck](https://github.com/avcoder/food-truck-express/blob/main/index.js) app to use routers for better organization 
 
 ---
 transition: slide-left
