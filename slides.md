@@ -189,10 +189,10 @@ transition: slide-left
 transition: slide-left
 ---
 
-# Exercise: Routers (aka organized routing)
+# Exercise: Routers
 (remainder of time)
 
-- https://www.theodinproject.com/lessons/nodejs-routes
+- Refer to [Routers](https://www.theodinproject.com/lessons/nodejs-routes#routers)
 - refactor our [food truck](https://github.com/avcoder/food-truck-express/blob/main/index.js) app to use routers for better organization 
 
 ---
