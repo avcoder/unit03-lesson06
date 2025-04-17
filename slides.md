@@ -194,7 +194,7 @@ transition: slide-left
 (remainder of time)
 
 - Refer to [Routers](https://www.theodinproject.com/lessons/nodejs-routes#routers)
-- refactor our [food truck](https://github.com/avcoder/food-truck-express/blob/main/index.js) app to use routers for better organization 
+- refactor our [food truck](https://github.com/avcoder/food-truck-express/blob/main/index.js) app to use routers for better organization and prepare us for the next class (to use controllers)
 
 ---
 transition: slide-left
