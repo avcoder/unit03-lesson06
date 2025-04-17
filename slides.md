@@ -183,6 +183,7 @@ transition: slide-left
 # Agile Theory - Collaborate in Software Deelopment
 (20 min) What is Agile and Scrum?
 
+- Watch (7 mins) https://www.youtube.com/watch?v=9TycLR0TqFA&t=5s
 - Look thru [Agile Manifesto](https://courses.circuitstream.com/d2l/le/lessons/9514/topics/49824)
 - [Watch](https://www.youtube.com/watch?v=BVbfNiRbgjU) Scrum Card Game
 - What's a sprint?
@@ -206,5 +207,4 @@ transition: slide-left
 
 # Homework
 
-- Watch (7 mins) https://www.youtube.com/watch?v=9TycLR0TqFA&t=5s
 - Download MongoDB's [compass](https://www.mongodb.com/products/tools/compass) and also sign up to create an account
