@@ -187,6 +187,8 @@ transition: slide-left
 - [Watch](https://www.youtube.com/watch?v=BVbfNiRbgjU) Scrum Card Game
 - What's a sprint?
 - How do teams organize work and to-dos in software development?
+- See Github "Projects" option
+- Challenge: Use GitHub projects to create a mock board for your midterm project
 
 ---
 transition: slide-left
